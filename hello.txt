@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hello
 bacho
 from featur1 how are you 
+=======
+hello bacho kar diya conflict
+>>>>>>> feature2
